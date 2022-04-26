@@ -7,7 +7,7 @@ For execute the code, you **MUST** need:
 - **RSAT** (Remote System Administration Tools).
 - CSV file with users to change the password. 
 
-**You can do it manually or you can [use a code](https://github.com/joanmateo71/ChangePwdAD_Powershell/ScriptPwd.ps1) that make all the process automatically.**
+**You can do it manually or you can [use a code](https://github.com/joanmateo71/ChangePwdAD_Powershell/blob/main/ScriptPwd.ps1) that make all the process automatically.**
 
 ## Step-by-Step
 **1.- Install RSAT Tools.** *!!* <br>
