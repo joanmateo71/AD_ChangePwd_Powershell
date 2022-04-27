@@ -1,4 +1,4 @@
-# ChangePwdADusers_Powershell
+# ADchangePwd
 Repository with script to force a user from Active Directory to set a new password at the next login via Windows Powershell.
 
 **!!**: When you see this, is recommended to execute or do it as Administrator. 
